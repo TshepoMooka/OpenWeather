@@ -1,2 +1,2 @@
 # OpenWeather
-School Project using Open Weather Api.
+This is a c-sharp School Project using Open Weather Api.
