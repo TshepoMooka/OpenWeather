@@ -11,7 +11,7 @@ namespace WeatherApp
             var info = await ViewWeather.WeatherCastAsync();
 
           
-            Console.WriteLine("Huminity:" + info.Humidity);
+            Console.WriteLine("Humidity:" + info.Humidity);
             Console.WriteLine("Temperature:" + info.Temperature);
             Console.WriteLine("Weather:" + info.Weather);
          
